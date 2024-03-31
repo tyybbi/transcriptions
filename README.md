@@ -8,5 +8,5 @@ A collection of bass transcriptions in LilyPond notation.
 
 If needed, generate score pdfs and midi files by
 ```
-$ lilypond -o output src/*.ly 
+$ lilypond -o output src/*.ly
 ```
