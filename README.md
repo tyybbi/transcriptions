@@ -1,12 +1,10 @@
 # Transcriptions
 
-_TBD_
-
 A collection of bass transcriptions in LilyPond notation.
 
 ## How to
 
-If needed, generate score pdfs and midi files by
+If needed, generate score and tablature PDF files by running
 ```
 $ lilypond -o output src/*.ly
 ```
