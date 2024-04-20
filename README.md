@@ -2,9 +2,7 @@
 
 A collection of bass transcriptions in LilyPond notation.
 
-## How to
+## Polychrome by Vincent García
 
-If needed, generate score and tablature PDF files by running
-```
-$ lilypond -o output src/*.ly
-```
+Transcribed from [this](https://www.youtube.com/watch?v=cNPRGpMhhcA)
+performance.
