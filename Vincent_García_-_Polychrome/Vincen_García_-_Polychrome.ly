@@ -78,7 +78,7 @@ song = {
     bes8\3 bes'16\1 \xHeadOn d,\2 a\3 \xHeadOff c\3 c'\1 \xHeadOn d,\2 a\3 \xHeadOff cis\3 cis'\1 \xHeadOn d,\2 a\3 \xHeadOff dis\3 r \xHeadOn a \xHeadOff
 
     e'8\3 r16 \xHeadOn g\1 \xHeadOff d'16\1 (e\1) b8\2 r16 \xHeadOn d,\2 \xHeadOff g\2 (a\2) e8\3 r16 \xHeadOn a,\3 \xHeadOff
-    d\3 (e\3) b8 r16 \xHeadOn d\2 a\3 e\4 \xHeadOff fis\4 (\glissando g\4) g'\2 \xHeadOn a,\3 e\4 \xHeadOff a\4 (b\4) d\3
+    d\3 (e\3) b8\4 r16 \xHeadOn d\2 a\3 e\4 \xHeadOff fis\4 (\glissando g\4) g'\2 \xHeadOn a,\3 e\4 \xHeadOff a\4 (b\4) d\3
     g\2 e\3 \xHeadOn e,\4 e\4 \xHeadOff a16\4 \xHeadOn e\4 e\4 \xHeadOff g\4 r a8\4 \xHeadOn e16\4 \xHeadOff g\4 r a8\4
     r16 \xHeadOn b,\5 \xHeadOff cis\5 r dis\5 r \xHeadOn b\5 \xHeadOff e\5 r dis\5 r \xHeadOn b\5 \xHeadOff \afterGrace cis4 \glissando {\hideNotes fis\5} \unHideNotes
 
