@@ -50,7 +50,7 @@ song = {
     cis8\3 r16 \xHeadOn a\3 r a\3 r a\3 \xHeadOff e''16 (fis) b,\2 e cis4\2
     r16 b (cis) fis, b gis\2 r \xHeadOn d\2 r d\2 r d\2 \xHeadOff e (fis) b, e
     cis8. b16 r4 r4 r16 \xHeadOn a\3 \xHeadOff gis\4 a\4
-    bes8\4 bes'16\2 bes,\4~ bes bes'\2~ bes bes,\4~ bes as f8\5 dis\5 cis\5
+    bes8\4 bes'16\2 bes,\4~ bes\4 bes'\2~ bes\2 bes,\4~ bes\4 as\4 f8\5 dis\5 cis\5
 
     r8. gis''16\3 cis\2 cis\2 r gis\3 cis\2 cis\2 r cis\2 \autoBeamOff r gis\3 cis\2 r \autoBeamOn
     r8. gis16\3 cis\2 cis\2 r cis\2 \autoBeamOff r gis\3 cis\2 r r4 \autoBeamOn
@@ -70,7 +70,7 @@ song = {
     r16 \xHeadOn a,\3 \xHeadOff b (cis) r cis, r8 r16 cis r8 r8 r16 cis
     r16 \xHeadOn b\5 \xHeadOff cis16 cis r4 r16 cis r8 r8 cis16 r
     r8. cis16 \autoBeamOff r \xHeadOn b\5 \xHeadOff \autoBeamOn cis cis r4 r16 \xHeadOn a'\3 \xHeadOff gis\4 a\4
-    bes8\4 bes'16\2 bes,\4~ bes bes'\2~ bes bes,\4~ bes \xHeadOn e,\4 \xHeadOff gis\4 (bes\4) cis\3 (dis\3) gis,\4 (bes\4)
+    bes8\4 bes'16\2 bes,\4~ bes\4 bes'\2~ bes\2 bes,\4~ bes\4 \xHeadOn e,\4 \xHeadOff gis\4 (bes\4) cis\3 (dis\3) gis,\4 (bes\4)
 
     r16 \xHeadOn a\3 \xHeadOff b (cis) r cis, r8 r16 cis r8 r8 r16 cis
     r16 \xHeadOn b\5 \xHeadOff cis16 cis r4 r16 cis r8 r8 cis16 r
