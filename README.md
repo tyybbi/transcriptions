@@ -1,3 +1,5 @@
+*Migrated to [Codeberg.org](https://codeberg.org/tyybbi/transcriptions)*
+
 # Transcriptions
 
 A collection of bass transcriptions in LilyPond notation.
